@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+<<<<<<< HEAD
+/Utad.Lab4.DeezGamez/.vs
+=======
+/Utad.Lab4.DeezGamez/.vs/Utad.Lab4.DeezGamez/FileContentIndex
+>>>>>>> add gitignore
+/lab4t1/.vs
+obj/
+bin/
+
